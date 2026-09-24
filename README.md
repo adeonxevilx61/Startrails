@@ -216,4 +216,4 @@ Startrails is the **full free version** with all features and updates included. 
 Unlock the beauty of the night sky with Startrails! Download now and start creating stunning star trail images today!
 
 ---
-**Last updated:** 2026-09-24 04:16:46 UTC
+**Last updated:** 2026-09-24 09:49:10 UTC
